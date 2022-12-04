@@ -6,4 +6,4 @@ https://vaers.hhs.gov/data/datasets.html
 
 ![image](https://user-images.githubusercontent.com/119301326/205486970-30c40e12-fa21-4c5d-92f7-a3cece88125b.png)
 
-The number of reports made in 2020 by unique VAERS ID was 49634 and the number of duplicated VAERS ID was 11149 which totalled a 60783 reports submitted to VAERS. This suggests that 11149 unique VAERS ID uploaded more symptoms during the course of the year. 
+The number of reports made in 2020 by unique VAERS ID was 49634 and the number of duplicated VAERS ID was 11149 which totalled a 60783 unque VAERS ID reports submitted to VAERS. This suggests that 11149 unique VAERS ID uploaded additional symptoms that they experienced during the course of the year. 
