@@ -1,5 +1,6 @@
 # VAERS-Data-Analysis
 Analyzing VAERS (Vaccine Adverse Event Reporting System) Data
+
 VAERS is the United States early warning system that monitors the safety of vaccines after they are authorized or licensed for use by the U.S. Food and Drug Administration (FDA). VAERS is part of the larger vaccine safety system in the United States that helps make sure vaccines are safe. The system is co-managed by CDC and FDA.
 
 This repo was created to analyse the reports of vaccine injuries since 2020, which can be downloaded from the VAERS download page. 
