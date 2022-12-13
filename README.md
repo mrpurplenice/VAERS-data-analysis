@@ -19,6 +19,8 @@ The number of males was 13727.
 
 The number of females was 28068.
 
+The number of undisclosed genders was 6641.
+
 # Probabilities 
 
 The probability of being hospitalised given that you received a vaccine in the same year was 0.0391 (3sf)
