@@ -1,14 +1,18 @@
 # VAERS-Data-Analysis
 Analyzing VAERS (Vaccine Adverse Event Reporting System) Data
 
-VAERS is the United States early warning system that monitors the safety of vaccines after they are authorized or licensed for use by the U.S. Food and Drug Administration (FDA). VAERS is part of the larger vaccine safety system in the United States that helps make sure vaccines are safe. The system is co-managed by CDC and FDA. VAERS is a passive reporting system, meaning it relies on individuals to send in reports of their experiences therefore this could lead to an undereporting of symptoms as people are more likely to report serious adverse events than non-serious events. 
+In 2019 there was no introduction of the COVID Vaccines and this will be the control year in which we will compare the differences caused by the introduction of the COVID Vaccines. 
 
-This repo was created to analyse the reports of vaccine injuries since 2020, which can be downloaded from the VAERS download page. 
-https://vaers.hhs.gov/data/datasets.html
-![image](https://user-images.githubusercontent.com/119301326/205485020-f5c303c8-d283-4dfe-957f-715fb8986369.png)
+In 2019 there was 48436 unique VAERS ID, which means 48436 people were adversely affected by vaccines which includes 28308 people who reported additional symptoms throughout the year. 
 
-As you can see there is a clear jump in the size of data received in 2021 compared to the years 2020 and 2019 in which at Dec 2020 was the first case usage of the COVID vaccines to combat the spread of the Corona Virus.
+The number of people hospitalised which were given vaccines were 1895 
+The number of people who died in the same year as receiving vaccines was 181.
+The number of people who contracted myocarditis symptoms in the same year as taking vaccines was 9.
+The number of birth defects expeirenced by unique VAERS ID was 28.
+The number of males was 13727.
+The number of females was 28068.
 
-On December 11th 2020, the FDA granted emergency use authorization for the Pfizer–BioNTech vaccine and on December 18th 2020, the FDA granted the Moderna vaccine emergency use authorization. Additionally on February 27th 2021, the Janssen COVID-19 vaccine was granted emergency use authorization by the FDA. 
-
-![image](https://user-images.githubusercontent.com/119301326/205485413-bef197b9-1645-44ff-9991-6afb142ab5be.png)
+The probability of being hospitalised given that you received a vaccine in the same year was 0.0391 (3sf)
+The probability you became disabled given that you took a vaccine in the same year was 0.0214 (3sf)
+The probability of having myocarditis given that you took a vaccine in the same year was 0.000186 (3sf)
+The probability of death given that you took a vaccine in the same year was 0.00373 (3sf)
