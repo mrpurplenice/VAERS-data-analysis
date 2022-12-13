@@ -3,6 +3,8 @@ Analyzing VAERS (Vaccine Adverse Event Reporting System) Data
 
 In 2019 there was no introduction of the COVID Vaccines and this will be the control year in which we will compare the differences caused by the introduction of the COVID Vaccines. 
 
+# General Statistics 
+
 In 2019 there was 48436 unique VAERS ID, which means 48436 people were adversely affected by vaccines which includes 28308 people who reported additional symptoms throughout the year. 
 
 The number of people hospitalised which were given vaccines were 1895 
@@ -17,6 +19,7 @@ The number of males was 13727.
 
 The number of females was 28068.
 
+# Probabilities 
 
 The probability of being hospitalised given that you received a vaccine in the same year was 0.0391 (3sf)
 
