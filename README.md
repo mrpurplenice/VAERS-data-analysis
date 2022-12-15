@@ -13,7 +13,7 @@ The number of people who died in the same year as receiving vaccines was 181.
 
 The number of people who contracted myocarditis symptoms in the same year as taking vaccines was 9.
 
-The number of birth defects expeirenced by unique VAERS ID was 28.
+The number of birth defects experienced by unique VAERS ID was 28.
 
 The number of males was 13727.
 
