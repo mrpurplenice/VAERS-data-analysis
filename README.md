@@ -5,7 +5,7 @@ In 2021 there was an introduction of the Janseen COVID Vaccine which was introdu
 
 # General Statistics 
 
-In 2021 there was 1049460 unique VAERS ID, which means 737998 people were adversely affected by vaccines which includes 311462 people who reported additional symptoms throughout the year. 
+In 2021 there was 1049460 total reports into VAERS, which means 737998 people were adversely affected by vaccines with 311462 people who reported additional symptoms throughout the year. 
 
 The number of people hospitalised which were given vaccines were 47056. 
 
