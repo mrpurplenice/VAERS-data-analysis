@@ -51,4 +51,4 @@ The number of people who took the COVID vaccine from Moderna was 3030
 
 The number of people who took the COVID vaccine from Pfizer/Biontech was 7330
 
-The percentage of individuals who have died after receiving the COVID-19 vaccine was 0.0414%
+The percentage of individuals who have died after receiving the COVID-19 vaccine was 0.0414% (3sf)
