@@ -5,7 +5,7 @@ In 2020 there was an introduction of the COVID Vaccines and this came in mid Dec
 
 # General Statistics 
 
-In 2020 there was 49634 unique VAERS ID, which means 48436 people were adversely affected by vaccines which includes 23818 people who reported additional symptoms throughout the year. 
+In 2021 there was 73452 total reports into VAERS, which means 49634 people were adversely affected by vaccines with 23818 people who reported additional symptoms throughout the year.
 
 The number of people hospitalised which were given vaccines were 1592. 
 
