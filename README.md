@@ -45,7 +45,7 @@ The minium age of individual who died from the vaccine was 0.08.
 
 The maximum age of individual who died from the vaccine was 106
 
-# Probabilities 
+# Probabilities when receiving a vaccine
 
 The probability of individuals who were hospitalised after receiving a vaccine was 0.0416 (3sf)
 
