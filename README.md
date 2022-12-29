@@ -94,3 +94,6 @@ The number of individuals with "blood clot" listed as a symptom after receiving 
 The number of individuals with "blood clot" listed as a symptom after receiving the Moderna COVID-19 vaccine was 1404
 
 The percentage of individuals who have died after receiving the COVID-19 vaccine was 0.968% (3sf)
+
+
+# Probabilities when receiving a COVID-19 vaccine
