@@ -55,7 +55,7 @@ The probability of individuals with "myocarditis" listed as a symptom after rece
 
 The probability of death given that you took a vaccine in the same year was 0.00926 (3sf)
 
-# Statistics based on receiving COVID-19 Vaccines
+# Statistics based on receiving COVID-19 vaccines
 
 The number of people who took a COVID Vaccine throughout the year who experienced adverse reactions  was 695877
 
