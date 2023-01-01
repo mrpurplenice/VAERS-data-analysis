@@ -13,10 +13,6 @@ The number of indvidual females was 485496
 
 The number of individuals with a gender that is not "M" or "F" was 35661.
 
-The number of individuals who received a Moderna vaccine was 324668.
-
-The number of individuals who received a PFIZER\BIONTECH vaccine was 307064 
-
 The number of individual birth defects was 459.
 
 The number of individuals who were hospitalised after receiving a vaccine were 47056. 
