@@ -55,10 +55,6 @@ The probability of death given that you took a vaccine in the same year was 0.01
 
 The number of people who took a COVID Vaccine throughout the year who experienced adverse reactions  was 695860
 
-The number of people who took the COVID vaccine from Moderna was 324826
-
-The number of people who took the COVID vaccine from Pfizer/Biontech was 308142
-
 The number of individuals with "stroke" listed as a symptom after receiving the COVID-19 vaccine was 6342
 
 The number of individuals with "lymph node" listed as a symptom after receiving the COVID-19 vaccine was 17818
